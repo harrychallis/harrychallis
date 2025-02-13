@@ -24,5 +24,5 @@ I am learning new technologies, gaining certifications, and bringing my experien
 
 ## 🏁 Upcoming Race  
 <a href="https://github.com/harrychallis/racecountdown">
-  <img src="https://raw.githubusercontent.com/harrychallis/racecountdown/main/countdown.json&style=for-the-badge&logo=running&logoColor=white" alt="Race Countdown" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharrychallis%2Fracecountdown%2Fmain%2Fcountdown.json&style=for-the-badge&logo=running&logoColor=white" alt="Race Countdown" />
 </a>
