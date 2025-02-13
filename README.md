@@ -20,7 +20,9 @@ I am learning new technologies, gaining certifications, and bringing my experien
 
 - 🐶 Spending time with my dog, Jäger  
 - ✈️ Traveling and exploring new places  
-- 🛠️ Troubleshooting and debugging software  
+- 🏎️ Formula 1
+- 🏒 Washington Capitals
+- 🏃 Running and exercising
 
 ## 🏁 Upcoming Race  
 <a href="https://github.com/harrychallis/racecountdown">
