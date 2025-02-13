@@ -9,7 +9,7 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 
 ## Certifications
 <div>
-  <a href="https://www.credly.com/badges/02ea622c-ffb6-40bb-be3a-30693ca0fb6e/linked_in_profile" target="_blank">
+  <a href="https://www.credly.com/badges/02ea622c-ffb6-40bb-be3a-30693ca0fb6e/linked_in_profile" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" width="150" height="40" />
   </a>
   <a href="https://www.credly.com/badges/YOUR_NETWORK_PLUS_BADGE" target="_blank">
