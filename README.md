@@ -9,12 +9,12 @@ I am learning new technologies, gaining certifications, and bringing my experien
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<br>
-  <img src="https://img.shields.io/badge/-Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white" />
-  </br>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" width="150" height="40" />
+  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" width="150" height="40" />
+  <br>
+  <img src="https://img.shields.io/badge/-Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white" width="304" height="40"/>
 </div>
+
 
 ## Hobbies & Interests  
 
