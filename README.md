@@ -28,5 +28,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## 🏁 Upcoming Race  
 <a href="https://github.com/harrychallis/racecountdown">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/harrychallis/racecountdown/main/countdown.json&style=for-the-badge&logo=running&logoColor=white" alt="Race Countdown" />
+  <img src="https://raw.githubusercontent.com/harrychallis/racecountdown/main/countdown.json&style=for-the-badge&logo=running&logoColor=white" alt="Race Countdown" />
 </a>
