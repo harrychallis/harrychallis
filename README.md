@@ -1,5 +1,5 @@
 # Hello, I'm Harry :wave:
-<a href="https://linkedin.com/in/harrychallis/"> <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+<a href="https://linkedin.com/in/harrychallis/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="100" height="50" /></a>
 
 I am a proud <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a> James Madison University Alumni, with an interest in technology and a passion for cybersecurity.
 
@@ -26,5 +26,5 @@ I am learning new technologies, gaining certifications, and bringing my experien
 
 ## 🏁 Upcoming Race  
 <a href="https://github.com/harrychallis/racecountdown">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharrychallis%2Fracecountdown%2Fmain%2Fcountdown.json&style=for-the-badge&logo=running&logoColor=white" alt="Race Countdown" />
+ <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fharrychallis%2Fracecountdown%2Fmain%2Fcountdown.json&style=for-the-badge&logo=running&logoColor=white&color=ffffff" alt="Race Countdown" />
 </a>
