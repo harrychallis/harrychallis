@@ -15,3 +15,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white" />
   </br>
 </div>
+
+## Hobbies & Interests  
+
+- 🐶 Spending time with my dog, Jäger  
+- 🚗 Road trips and exploring new places  
+- 🎮 Gaming and tech tinkering  
+- ☁️ Cloud computing and learning new AWS services  
+- 🛠️ Troubleshooting and debugging software  
+- 🎵 Listening to music and discovering new artists  
+- 🍕 Trying out new food spots and cooking experiments  
+
+## Next Race Countdown 
+<a href="https://github.com/harrychallis/racecountdown">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/harrychallis/racecountdown/main/countdown.json&style=for-the-badge&logo=running&logoColor=white" alt="Race Countdown" />
+</a>
