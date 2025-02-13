@@ -5,7 +5,7 @@ I am a proud <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/
 
 ## Objective
 
-I am learning new technologies, gaining certifications, and bringing my experience as I transition my career into this field.
+Seeking to leverage my experience, gain certifications, and transition into the cybersecurity field to secure a challenging position where I can grow and contribute to security efforts.
 
 ## Certifications
 <div>
