@@ -1,11 +1,11 @@
-# Hello, I'm Harry
+# Hello, I'm Harry :wave:
 <a href="https://linkedin.com/in/harrychallis/"> <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
 
-I am a proud <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a> James Madison University Alumni, with an interest in technology and a passion for Cyber Security.
+I am a proud <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a> James Madison University Alumni, with an interest in technology and a passion for cybersecurity.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am learning new technologies, gaining certifications, and bringing my experience as I transition my career into this field.
 
 ## Certifications
 <div>
@@ -19,12 +19,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Hobbies & Interests  
 
 - 🐶 Spending time with my dog, Jäger  
-- 🚗 Road trips and exploring new places  
-- 🎮 Gaming and tech tinkering  
-- ☁️ Cloud computing and learning new AWS services  
+- ✈️ Traveling and exploring new places  
 - 🛠️ Troubleshooting and debugging software  
-- 🎵 Listening to music and discovering new artists  
-- 🍕 Trying out new food spots and cooking experiments  
 
 ## 🏁 Upcoming Race  
 <a href="https://github.com/harrychallis/racecountdown">
